@@ -1,17 +1,6 @@
 from nltk.chat.util import Chat, reflections
+from language import reflections_pt, sentences_pt
 
-reflexoes = {
-    'eu': 'voce',
-    'eu sou': 'voce e',
-    'eu era': 'voce era',
-    'eu iria': 'voce iria',
-    'eu irei': 'voce ira',
-    'meu': 'seu',
-    'voce': 'eu',
-    'voce e': 'eu sou',
-    'voce era': 'eu era',
-    'voce iria': 'eu iria',
-    'seu': 'meu'
-}
-
-print(reflexoes)
+print('Ola, sou um chatbot!')
+chat = Chat(sentences_pt, reflections_pt)
+chat.converse()
