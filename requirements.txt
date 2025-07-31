@@ -33,4 +33,5 @@ tinysegmenter==0.3
 tldextract==5.3.0
 tqdm==4.67.1
 typing-extensions==4.14.1
+Unidecode==1.4.0
 urllib3==2.5.0

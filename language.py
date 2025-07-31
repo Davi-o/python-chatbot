@@ -42,3 +42,16 @@ sentence_to_chatter_bot = [
     "qual roupa voce me indica?", "indico uma camiseta",
     "qual roupa esta em promocao?", "a camiseta"
 ]
+
+user_welcoming = [
+    'ola', 'oi', 'oii', 'eai', 'opa', 'hello', 'hi', 'hey', 
+    'bom', 'dia', 'tarde', 'noite', 'saudações',
+]
+
+bot_welcoming = [
+    "Olá! Sou um bot de conhecimentos gerais. Como posso ajudar?",
+    "Oi! Estou aqui para testar seus conhecimentos. Vamos começar?",
+    "E aí! Pronto para aprender coisas novas?",
+    "Saudações! Quer fazer um quiz ou perguntas livres?",
+    "Oi! Posso responder perguntas ou testar seus conhecimentos."
+]
