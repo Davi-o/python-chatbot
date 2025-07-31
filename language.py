@@ -35,3 +35,10 @@ sentences_pt = [
     r'quais roupas estao em promocao?',
     ['a bermuda', 'a blusa']
 ]
+
+sentence_to_chatter_bot = [
+    "oi", "como vai?",
+    "qual seu nome", "sou um chatbot",
+    "qual roupa voce me indica?", "indico uma camiseta",
+    "qual roupa esta em promocao?", "a camiseta"
+]
